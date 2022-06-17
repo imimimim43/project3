@@ -10,9 +10,6 @@
 
 ## 유전 알고리즘(Genetic Algorithm)
 - 다윈의 진화론으로부터 창안된 해 탐색 알고리즘이며, 최적화 문제를 해결하는데 '적자생존'의 개념을 적용한 것이다.
-- 
-![image](https://user-images.githubusercontent.com/102197100/174352197-7330977e-bf69-48c1-8ec4-7a398800f8c5.png)
-
 
 ---
 
@@ -27,6 +24,7 @@
 </ol>
 
 ---
+![image](https://user-images.githubusercontent.com/102197100/174352197-7330977e-bf69-48c1-8ec4-7a398800f8c5.png)
 <br>
 우선, 교재 속에 있는 예시로 유전 알고리즘을 구현해볼 것이다. 
 
