@@ -10,6 +10,9 @@
 
 ## 유전 알고리즘(Genetic Algorithm)
 - 다윈의 진화론으로부터 창안된 해 탐색 알고리즘이며, 최적화 문제를 해결하는데 '적자생존'의 개념을 적용한 것이다.
+- 
+![image](https://user-images.githubusercontent.com/102197100/174352197-7330977e-bf69-48c1-8ec4-7a398800f8c5.png)
+
 
 ---
 
@@ -38,6 +41,9 @@
 - **현재 세대의 후보해 중에서 우수한 후보해를 선택하는 연산**이다. 현재 세대에 n개의 후보해가 있으면, 적합도가 상대적으로 낮은 후보해들은 선택되지 않을 수도 있는 것이다.
 
 - 룰렉 휠(roulette wheel) 방법으로 선택 연산을 구현할 수 있다.
+- 
+![image](https://user-images.githubusercontent.com/102197100/174352342-ed297637-b278-4a45-a4b1-4c3cbc7809ee.png)
+
 
 <br>
 
@@ -47,3 +53,4 @@
 <br>
 
 ### 3. 돌이변이(mutation)연산
+![image](https://user-images.githubusercontent.com/102197100/174352408-34f1054f-fd96-45dd-ac1e-103641179c6d.png)
