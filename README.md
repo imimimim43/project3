@@ -41,6 +41,8 @@
 
 - 룰렉 휠(roulette wheel) 방법으로 선택 연산을 구현할 수 있다.
 
+> 각 후보해의 적합도를 전체 적합도로 나누면 룰렛의 비율을 구할 수 있다.
+<br>
 ![image](https://user-images.githubusercontent.com/102197100/174352342-ed297637-b278-4a45-a4b1-4c3cbc7809ee.png)
 
 
